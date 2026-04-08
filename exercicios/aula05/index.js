@@ -37,8 +37,8 @@ export function somarPares(numeros) {
   for (const numero of numeros) {
     if (numero % 2 === 0) 
       soma += numero 
-}
-return soma;
+  }
+  return soma; 
 }
 
 
